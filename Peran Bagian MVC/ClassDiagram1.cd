@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Peran_Bagian_MVC.Controller.MainWindowController" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAACAACAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\MainWindowController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.Controller.PenawaranController">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Controller\PenawaranController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.Model.Item">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.Model.KeranjangBelanja">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAAAAAAAAEAACAAACAAAAAAAAAAAIAAEAAAAA=</HashCode>
+      <FileName>Model\KeranjangBelanja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.Model.Payment">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQIAAAAAAEAAACCEAhAAQA=</HashCode>
+      <FileName>Model\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.App">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peran_Bagian_MVC.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAIAAAgAEAAAIAAQCAABQAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Peran_Bagian_MVC.Penawaran" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEEAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Penawaran.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Peran_Bagian_MVC.Model.OnKeranjangBelanjaChangedListener">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\KeranjangBelanja.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Peran_Bagian_MVC.Model.OnPaymentChangedListener">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Peran_Bagian_MVC.OnPenawaranChangedListener">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Penawaran.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
