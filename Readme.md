@@ -1,6 +1,6 @@
 # Peran Bagian MVC
 ## 1.Class Diagram
-![Class Diagram](ClassDiagram.png)
+![Class Diagram](https://github.com/MTYU-Luki/Peran-Bagian-MVC/blob/master/ClassDiagram1.png)
 
 ## 2.Penjelasan Program
 Aplikasi Sederahana untuk menambahkan item yang kita pilih ke keranjang belanja kita menggunakan metode MVC yaitu Model View Controller
