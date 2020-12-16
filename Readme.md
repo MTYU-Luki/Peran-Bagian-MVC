@@ -1,6 +1,6 @@
 # Peran Bagian MVC
 ## 1.Penjelasan Program
-Aplikasi Sederahana untuk menambahkan item keranjang belanja
+Aplikasi Sederahana untuk menambahkan item seperti keranjang belanja
 
 ## 2.Penjelasan Model
 Class yang terdapat dalam model yaitu `Item.cs` `KeranjangBelanja.cs` dan `Payment.cs`.
